@@ -80,7 +80,7 @@ mkdir <dirname>
 ```
 ###### 回到clone位置
 ```
-cp -rf project/* /var/www/html/<dirname>/
+cp -rf finalproject/* /var/www/html/<dirname>/
 ```
 ###### 打開網頁
 ```
