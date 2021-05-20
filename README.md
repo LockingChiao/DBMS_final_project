@@ -69,7 +69,7 @@ sudo systemctl restart apache2
 ```
 ###### 下載檔案
 ```
-git clone <url>
+git clone https://github.com/LockingChiao/DBMS_final_project
 cd /var/www/html
 mkdir <dirname>
 ```
