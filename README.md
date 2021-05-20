@@ -1,4 +1,9 @@
 # DBMS_final_project
+* Advanced 功能 (insert, update, delete功能)
+
+  * username=root
+  * password=dbms2021
+##
 
 ## 使用環境: Ubuntu 20.04 mysql8.0.23 PHP7.4.3
 
